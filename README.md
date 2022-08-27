@@ -1,7 +1,5 @@
 ﻿## Olá, eu sou o <strong>Bruno!</strong>
 
-----
-
 🔭 Ultimo projeto realizado mas não finalizado é o DsMeta, você pode vê-lo em meu repositório.
 
 Atualmente realizando projetos escolares.
