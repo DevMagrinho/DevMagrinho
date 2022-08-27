@@ -34,8 +34,6 @@ Atualmente realizando projetos escolares.
 <div style="display: inline_block"><br>
   <img align="right" alt="Bruno" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/101012981?v=4">
 </div>
- 
----
 
 <div> 
   <a href="https://instagram.com/bruno_dnzn" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a> 
