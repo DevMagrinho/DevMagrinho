@@ -1,12 +1,10 @@
-﻿## Olá, eu sou o <strong>Bruno!</strong>
+ ## Hello, my name is <strong>Bruno!</strong>
 
-🔭 Ultimo projeto realizado mas não finalizado é o DsMeta, você pode vê-lo em meu repositório.
-
-Atualmente realizando projetos escolares.
+🔭 Currently carrying out several personal projects, seeking constant evolution and academic growth, you can see it in my repositories.
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 <div align="center">
   
   <a href="https://github.com/DevMagrinho">
@@ -16,7 +14,9 @@ Atualmente realizando projetos escolares.
 </div>
 
 ---
-## ⭐ Estudando Skills
+
+## ⭐ Skills
+
   <img align="center" alt="Bruno-Java" height="30" widht="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
